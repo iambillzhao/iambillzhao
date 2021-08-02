@@ -3,7 +3,7 @@
   <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-18BFFF?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
   <a href="https://www.iambillzhao.com/resume" target="blank"><img align="center" src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/iambillzhao/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=-ruLhVAAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-E37400?style=for-the-badge&logo=google&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=-ruLhVAAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Scholar-E37400?style=for-the-badge&logo=google&logoColor=white"></a>
   <a href="https://www.github.com/iambillzhao/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/iambillzhao/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/iambillzhao/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
