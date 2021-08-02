@@ -9,6 +9,10 @@
   <a href="https://www.instagram.com/iambillzhao/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitter.com/iambillzhao/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+  
+<p align="center">
+  <img src="calm.gif" width="1000" height="500">
+</p>
 
 <details>
   <summary>My Programming Skills</summary>
