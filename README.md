@@ -14,22 +14,17 @@
   <img src="calm.gif" width="1000" height="500">
 </p>
 
-<!-- <details> -->
-<!--   <summary>My Programming Skills</summary> -->
-<!--     <p align="center"> -->
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Assembly-217346?style=for-the-badge&logo=motorola&logoColor=white">
-      <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambillzhao&hide_border=true&layout=compact&hide_title=true">
-<!--     </p> -->
-<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=iambillzhao&show_icons=true&hide_border=true&hide_title=true&count_private=true" /> -->
-<!-- </details>
- -->
+<p align="center">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Motorola_68000_(Assembly)-217346?style=for-the-badge&logo=motorola&logoColor=white">
+  <a href="https://www.iambillzhao.com/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambillzhao&hide_border=true&layout=compact&hide_title=true">
+</p>
